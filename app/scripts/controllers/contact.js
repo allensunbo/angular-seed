@@ -8,6 +8,6 @@
  * Controller of the proteusApp
  */
 module.exports = ['$scope', function ($scope) {
-  $scope.message = 'contact me!';
+  $scope.message = '@@@Hello, this is contact view!';
 }];
 
