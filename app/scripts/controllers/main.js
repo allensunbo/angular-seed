@@ -7,6 +7,7 @@
  * # MainCtrl
  * Controller of the proteusApp
  */
+
 angular.module('proteusApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [

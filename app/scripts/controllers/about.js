@@ -7,6 +7,7 @@
  * # AboutCtrl
  * Controller of the proteusApp
  */
+
 angular.module('proteusApp')
   .controller('AboutCtrl', function ($scope) {
     $scope.awesomeThings = [

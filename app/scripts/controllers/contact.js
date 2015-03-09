@@ -7,7 +7,7 @@
  * # ContactCtrl
  * Controller of the proteusApp
  */
-angular.module('proteusApp')
-  .controller('ContactCtrl', function ($scope) {
+module.exports = ['$scope', function ($scope) {
+  $scope.message = 'contact me!';
+}];
 
-  });
